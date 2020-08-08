@@ -1,0 +1,5483 @@
+[
+    {
+        "product_id": "856437796000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 6510/A+ SF",
+        "price_whr": 1127.1
+    },
+    {
+        "product_id": "856439110000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 6502/A+",
+        "price_whr": 1010.65
+    },
+    {
+        "product_id": "856439296000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 6610/A++",
+        "price_whr": 1401.66
+    },
+    {
+        "product_id": "856439296020",
+        "ceneo_id": 856439296020,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 6612/A++",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "856439296040",
+        "ceneo_id": 856439296040,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 6711/A++ SF",
+        "price_whr": 1507.91
+    },
+    {
+        "product_id": "856443096000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 6600/A+",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "856443096030",
+        "ceneo_id": 856443096030,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 6602/A+",
+        "price_whr": 1273.3
+    },
+    {
+        "product_id": "856444196000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 8912/A++ SF",
+        "price_whr": 1737.4
+    },
+    {
+        "product_id": "856444496000",
+        "ceneo_id": 856444496000,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 7811/A+",
+        "price_whr": 1480.71
+    },
+    {
+        "product_id": "856444696010",
+        "ceneo_id": 856444696010,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 9812/A+ SF",
+        "price_whr": 1943.97
+    },
+    {
+        "product_id": "856444796000",
+        "ceneo_id": 856444796000,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 9811/A++ SF",
+        "price_whr": 1894.64
+    },
+    {
+        "product_id": "856445101110",
+        "ceneo_id": 856445101110,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 895/A++/NF",
+        "price_whr": 2261.01
+    },
+    {
+        "product_id": "856479196000",
+        "ceneo_id": 856479196000,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 459/A+/NF/1",
+        "price_whr": 1504.66
+    },
+    {
+        "product_id": "856479296000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 880/A+/NF",
+        "price_whr": 1478.16
+    },
+    {
+        "product_id": "856499396000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 963/A+/NF",
+        "price_whr": 2209.15
+    },
+    {
+        "product_id": "858600510300",
+        "ceneo_id": 858600510300,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ARG 585/A+",
+        "price_whr": 844.91
+    },
+    {
+        "product_id": "853903401500",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "T 16 A1 D/HA",
+        "price_whr": 832.81
+    },
+    {
+        "product_id": "859991545410",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SP40 800 EU",
+        "price_whr": 2617.17
+    },
+    {
+        "product_id": "850371401500",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "S 12 A1 D/HA",
+        "price_whr": 795.67
+    },
+    {
+        "product_id": "850526511140",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "BSNF 8552 IX",
+        "price_whr": 1385.75
+    },
+    {
+        "product_id": "853480396000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AFB 1840 A+",
+        "price_whr": 1824.96
+    },
+    {
+        "product_id": "853491310310",
+        "ceneo_id": 853491310310,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ARG 590/A+",
+        "price_whr": 878.06
+    },
+    {
+        "product_id": "853903601500",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "B 18 A1 D/I",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "853920410020",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Polar",
+        "model": "POB 7001 OX",
+        "price_whr": 879.03
+    },
+    {
+        "product_id": "853920410100",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Polar",
+        "model": "POB 7001 W",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "853920411060",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR7 S1 S",
+        "price_whr": 900.15
+    },
+    {
+        "product_id": "853920411100",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR7 S1 W",
+        "price_whr": 900.15
+    },
+    {
+        "product_id": "853920411120",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Indesit",
+        "model": "LR7 S1 X",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "853920411200",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR7 S2 W",
+        "price_whr": 1042.95
+    },
+    {
+        "product_id": "853920411220",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR7 S2 X",
+        "price_whr": 1048.91
+    },
+    {
+        "product_id": "853920510000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Polar",
+        "model": "POB 5001 W",
+        "price_whr": 799.83
+    },
+    {
+        "product_id": "853920510020",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Polar",
+        "model": "POB 5001 OX",
+        "price_whr": 828.81
+    },
+    {
+        "product_id": "853920511060",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR6 S1 S",
+        "price_whr": 849.14
+    },
+    {
+        "product_id": "853920511100",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR6 S1 W",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "853920511120",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Indesit",
+        "model": "LR6 S1 X",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "853920511200",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR6 S2 W",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "853920511220",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR6 S2 X",
+        "price_whr": 849.14
+    },
+    {
+        "product_id": "853921910000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Polar",
+        "model": "POB 8001 W",
+        "price_whr": 849.14
+    },
+    {
+        "product_id": "853921910020",
+        "ceneo_id": 853921910020,
+        "category": "cooling",
+        "available": true,
+        "brand": "Polar",
+        "model": "POB 8001 OX",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "853921911050",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S1 K",
+        "price_whr": 1019.14
+    },
+    {
+        "product_id": "853921911060",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S1 S",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "853921911220",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S1 X",
+        "price_whr": 1018.3
+    },
+    {
+        "product_id": "853921911320",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S2 X B",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "853921911400",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S2 W B",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "853921911450",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S2 K B",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "853921911800",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR8 S1 W",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "853922811300",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR9 S1Q F W",
+        "price_whr": 1052.22
+    },
+    {
+        "product_id": "853922811320",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR9 S1Q F X",
+        "price_whr": 1104.06
+    },
+    {
+        "product_id": "853922811400",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR9 S2Q F W B",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "853922811420",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LR9 S2Q F X B",
+        "price_whr": 1189.14
+    },
+    {
+        "product_id": "856439196000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 6501/A+",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "856444896000",
+        "ceneo_id": 856444896000,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ART 9610/A+",
+        "price_whr": 1869.16
+    },
+    {
+        "product_id": "859990959070",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "BCB 7030 E C AA O3",
+        "price_whr": 1869.16
+    },
+    {
+        "product_id": "859991532200",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ARG 734/A+/2",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "859991538940",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 9620 A+ NF",
+        "price_whr": 1784.15
+    },
+    {
+        "product_id": "859991539880",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LI8 FF2 X.1",
+        "price_whr": 1316.64
+    },
+    {
+        "product_id": "869990779550",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "E4D AA SB C",
+        "price_whr": 1820.99
+    },
+    {
+        "product_id": "869990779560",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "E4D AA B C",
+        "price_whr": 1922.71
+    },
+    {
+        "product_id": "869990779660",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "E4D AA X C",
+        "price_whr": 2106.56
+    },
+    {
+        "product_id": "869990822400",
+        "ceneo_id": 869990822400,
+        "category": "cooling",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "E4DG AAA X O3",
+        "price_whr": 2379.18
+    },
+    {
+        "product_id": "869990894170",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "XH9 T2Z XOJZV",
+        "price_whr": 1357.42
+    },
+    {
+        "product_id": "869990953320",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "B TNF 5323 OX",
+        "price_whr": 2294.16
+    },
+    {
+        "product_id": "869990953340",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "B TNF 5322 OX",
+        "price_whr": 2464.17
+    },
+    {
+        "product_id": "869990962760",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SW8 AM2Y XR",
+        "price_whr": 1444.17
+    },
+    {
+        "product_id": "869990962770",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SW8 AM2Y WR",
+        "price_whr": 1529.16
+    },
+    {
+        "product_id": "859991571830",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 921C OX",
+        "price_whr": 1784.16
+    },
+    {
+        "product_id": "869991043640",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "SW8 AM2C KAR",
+        "price_whr": 2719.16
+    },
+    {
+        "product_id": "869991043690",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "SI6 1 S",
+        "price_whr": 1184.91
+    },
+    {
+        "product_id": "869991043740",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "SI6 1 W",
+        "price_whr": 1096.98
+    },
+    {
+        "product_id": "853417396000",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ARG 18081 A++",
+        "price_whr": 1954.15
+    },
+    {
+        "product_id": "856479296010",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 883/A+/NF",
+        "price_whr": 2123.3
+    },
+    {
+        "product_id": "859991540210",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LI8 FF2 K",
+        "price_whr": 1235.04
+    },
+    {
+        "product_id": "859991540240",
+        "ceneo_id": 859991540240,
+        "category": "cooling",
+        "available": true,
+        "brand": "Indesit",
+        "model": "LI80 FF1 K",
+        "price_whr": 1003.89
+    },
+    {
+        "product_id": "859991540250",
+        "ceneo_id": 859991540250,
+        "category": "cooling",
+        "available": true,
+        "brand": "Indesit",
+        "model": "LI8 N1 W",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "859991540540",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "XH8 T1O C",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "859991540610",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "XH8 T3U X",
+        "price_whr": 1359.16
+    },
+    {
+        "product_id": "859991540930",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "XH9 T3Z XOJZH/1",
+        "price_whr": 1595.49
+    },
+    {
+        "product_id": "859991541170",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "XH9 T2Z COJZH",
+        "price_whr": 1739.96
+    },
+    {
+        "product_id": "859991556870",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ART 9620 A++ NF",
+        "price_whr": 2294.15
+    },
+    {
+        "product_id": "859991541710",
+        "ceneo_id": 859991541710,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WQ9 E1L",
+        "price_whr": 3654.13
+    },
+    {
+        "product_id": "859991571890",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 931D KS",
+        "price_whr": 2209.14
+    },
+    {
+        "product_id": "859991571910",
+        "ceneo_id": 859991571910,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W9 931D B H",
+        "price_whr": 2547.45
+    },
+    {
+        "product_id": "869990933520",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "XH8 T1O X",
+        "price_whr": 1143.27
+    },
+    {
+        "product_id": "859991571900",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 931D KS H",
+        "price_whr": 2039.14
+    },
+    {
+        "product_id": "859991571880",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W9 931D IX H",
+        "price_whr": 2125.01
+    },
+    {
+        "product_id": "859991549440",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SP40 802 EU",
+        "price_whr": 2804.17
+    },
+    {
+        "product_id": "859991549720",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WTNF 92O MX H",
+        "price_whr": 1699.15
+    },
+    {
+        "product_id": "859991549830",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WDNF 93D B H",
+        "price_whr": 1004.1
+    },
+    {
+        "product_id": "859991566430",
+        "ceneo_id": 859991566430,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WQ9 B2L",
+        "price_whr": 3824.14
+    },
+    {
+        "product_id": "859991566680",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W84BE 72 X",
+        "price_whr": 3271.68
+    },
+    {
+        "product_id": "859991571140",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 931A OX",
+        "price_whr": 1688.85
+    },
+    {
+        "product_id": "859991573270",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 821I W",
+        "price_whr": 1316.64
+    },
+    {
+        "product_id": "859991573280",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 821O W",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "859991573300",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 821O OX",
+        "price_whr": 1444.16
+    },
+    {
+        "product_id": "859991573340",
+        "ceneo_id": 859991573340,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W7 831A OX",
+        "price_whr": 1614.17
+    },
+    {
+        "product_id": "859991573350",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 831T OX",
+        "price_whr": 1869.14
+    },
+    {
+        "product_id": "859991573360",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 831T MX",
+        "price_whr": 1869.14
+    },
+    {
+        "product_id": "859991573380",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 832T MX H",
+        "price_whr": 1869.16
+    },
+    {
+        "product_id": "859991573390",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 911I OX",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "859991573400",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W7 912I OX H",
+        "price_whr": 1192.66
+    },
+    {
+        "product_id": "859991573410",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 921O W H",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "859991573420",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 921I OX",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "859991573450",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 931A W",
+        "price_whr": 1699.15
+    },
+    {
+        "product_id": "859991573470",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W7 931A MX",
+        "price_whr": 1954.15
+    },
+    {
+        "product_id": "859991573480",
+        "ceneo_id": 859991573480,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W7 931T OX",
+        "price_whr": 2039.16
+    },
+    {
+        "product_id": "859991573500",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 931T OX H",
+        "price_whr": 1784.16
+    },
+    {
+        "product_id": "859991573530",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 921I OX AQUA",
+        "price_whr": 1784.15
+    },
+    {
+        "product_id": "859991573920",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 711E W",
+        "price_whr": 897.59
+    },
+    {
+        "product_id": "859991573930",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 711E OX",
+        "price_whr": 974.96
+    },
+    {
+        "product_id": "859991573940",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 721E W",
+        "price_whr": 1011.49
+    },
+    {
+        "product_id": "859991573950",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 721E OX",
+        "price_whr": 1064.21
+    },
+    {
+        "product_id": "859991573960",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 811E W",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "859991573970",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 811E OX",
+        "price_whr": 1037.85
+    },
+    {
+        "product_id": "859991573990",
+        "ceneo_id": 859991573990,
+        "category": "cooling",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W5 821E W",
+        "price_whr": 1110.95
+    },
+    {
+        "product_id": "859991574020",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 821E OX",
+        "price_whr": 1200.58
+    },
+    {
+        "product_id": "859991574050",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 911E W",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "859991574110",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W5 911E OX",
+        "price_whr": 1141.55
+    },
+    {
+        "product_id": "859991575570",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W55TM 4110 W",
+        "price_whr": 636.65
+    },
+    {
+        "product_id": "859991580200",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W55VM 1110 W",
+        "price_whr": 555.05
+    },
+    {
+        "product_id": "869990953260",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TTNF 8111 OX",
+        "price_whr": 1954.15
+    },
+    {
+        "product_id": "869991055430",
+        "ceneo_id": 869991055430,
+        "category": "cooling",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "SXBHAE 925",
+        "price_whr": 2889.13
+    },
+    {
+        "product_id": "869990886210",
+        "ceneo_id": -1,
+        "category": "cooling",
+        "available": false,
+        "brand": "Indesit",
+        "model": "LI8 N1 X",
+        "price_whr": 1013.18
+    },
+    {
+        "product_id": "851302696000",
+        "ceneo_id": 851302696000,
+        "category": "cooling",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KCFME 60150L",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "851302996000",
+        "ceneo_id": 851302996000,
+        "category": "cooling",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KCFMA 60150L",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "851302896000",
+        "ceneo_id": 851302896000,
+        "category": "cooling",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KCFMB 60150L",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "851302796000",
+        "ceneo_id": 851302796000,
+        "category": "cooling",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KCFME 60150R",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "851302596000",
+        "ceneo_id": 851302596000,
+        "category": "cooling",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KCFMB 60150R",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "851302496000",
+        "ceneo_id": 851302496000,
+        "category": "cooling",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KCFMA 60150R",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "850482896300",
+        "ceneo_id": 850482896300,
+        "category": "freezing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AFB 828/A+",
+        "price_whr": 970.69
+    },
+    {
+        "product_id": "854906096030",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WH1410 A+E",
+        "price_whr": 624.24
+    },
+    {
+        "product_id": "854906096040",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WHS1421",
+        "price_whr": 679.14
+    },
+    {
+        "product_id": "854907096020",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WHS2121",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "850785101500",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "BFS 1222.1",
+        "price_whr": 900.57
+    },
+    {
+        "product_id": "859991055060",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "OS 1A 100 2",
+        "price_whr": 721.65
+    },
+    {
+        "product_id": "854907096060",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WH2010 A+E FO",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "869990963120",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "UW8 F2Y XBI F",
+        "price_whr": 1699.15
+    },
+    {
+        "product_id": "869990963130",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "UW8 F2Y WBI F",
+        "price_whr": 1529.16
+    },
+    {
+        "product_id": "869991043800",
+        "ceneo_id": 869991043800,
+        "category": "freezing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "UW8 F2C KSB",
+        "price_whr": 2549.16
+    },
+    {
+        "product_id": "869991044240",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "UI6 1 W.1",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991044250",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "UI6 1 S.1",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "869991043880",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "UI6 F1T W",
+        "price_whr": 1037.41
+    },
+    {
+        "product_id": "850724196010",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "OS 1A 100",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "859991575730",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W55ZM 111 W",
+        "price_whr": 636.65
+    },
+    {
+        "product_id": "850724396010",
+        "ceneo_id": -1,
+        "category": "freezing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "OS 1A 200 H",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "869991570190",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIP 4O32 PF E",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869990867710",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DISR 57M94 CA EU",
+        "price_whr": 722.24
+    },
+    {
+        "product_id": "869990845830",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DFP 58B1 EU",
+        "price_whr": 719.99
+    },
+    {
+        "product_id": "869991055290",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C24 PS F E",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "869990828950",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "LTB 6B019 C EU",
+        "price_whr": 789.66
+    },
+    {
+        "product_id": "869990829950",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "ELTB 4B019 EU",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869990832550",
+        "ceneo_id": 869990832550,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DIFP 28T9 A EU",
+        "price_whr": 1036.15
+    },
+    {
+        "product_id": "869990844870",
+        "ceneo_id": 869990844870,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DIFP 18B1 A EU",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991001730",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3P23 PL",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869991001790",
+        "ceneo_id": 869991001790,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WFO 3T121 X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991007800",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C23 PF",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991007840",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C23 PEF",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991007850",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3T123 PFE",
+        "price_whr": 1359.14
+    },
+    {
+        "product_id": "869991007900",
+        "ceneo_id": 869991007900,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WEIC 3C26 F",
+        "price_whr": 1160.26
+    },
+    {
+        "product_id": "869991009130",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WBC 3C26 B",
+        "price_whr": 1075.24
+    },
+    {
+        "product_id": "869991009150",
+        "ceneo_id": 869991009150,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WBC 3C26 PF X",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991009180",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3T123 PEF",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991009450",
+        "ceneo_id": 869991009450,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WIC 3C26 P",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991009530",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C26 F",
+        "price_whr": 1178.09
+    },
+    {
+        "product_id": "869991009540",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WRIC 3C26 PF",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "869991009560",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C26",
+        "price_whr": 1060.8
+    },
+    {
+        "product_id": "869991009640",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFC 3C26 X",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991010070",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFO 3T121 P X",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991013860",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFC 3C26",
+        "price_whr": 1033.61
+    },
+    {
+        "product_id": "869991013900",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFC 3C24 PF X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991013910",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFC 3C26 F X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991016790",
+        "ceneo_id": 869991016790,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WIO 3O33 DEL",
+        "price_whr": 2039.16
+    },
+    {
+        "product_id": "869991017170",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFC 3C23 PF X",
+        "price_whr": 1104.16
+    },
+    {
+        "product_id": "869991017220",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFC 3C22 P X",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "869991017250",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFO 3P23 PL X",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869990860520",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "LFF 8M132 IX EU",
+        "price_whr": 992.55
+    },
+    {
+        "product_id": "869991056340",
+        "ceneo_id": 869991056340,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HKIO 3C21 C W",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991056400",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HIO 3C23 WF",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991057130",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HIO 3T223 WGF E",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991532620",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIF 4O43 DLGT E",
+        "price_whr": 2549.16
+    },
+    {
+        "product_id": "869991532680",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFO 3T132 X",
+        "price_whr": 1358.3
+    },
+    {
+        "product_id": "869991532700",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HIO 3O32 WT C",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991532720",
+        "ceneo_id": 869991532720,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HIO 3O32 W C",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991532740",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "Zmywarka Hotpoint HIO 3O32 WG",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "869991057150",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3T223 PFG E",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "869991552150",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIO 3T125 6PE X",
+        "price_whr": 1104.16
+    },
+    {
+        "product_id": "869991552410",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIC 3M27 C",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "869991552530",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIO 3T223 PCE X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991552550",
+        "ceneo_id": 869991552550,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WSIO 3O34 PFE X",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991552570",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIC 3M17",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991552610",
+        "ceneo_id": 869991552610,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WSIP 4O23 PFE",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "869991552620",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSBC 3M17 X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991553010",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFO 3T125 6PC X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991553020",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSBO 3O23 PF X",
+        "price_whr": 1198.49
+    },
+    {
+        "product_id": "869991553030",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSBO 3O34 PF X",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "869991553060",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFO 3O23 PF",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "869991553070",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFO 3O23 PF X",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "869991553080",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFO 3O34 PF X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991553490",
+        "ceneo_id": 869991553490,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HSFC 3T127 C",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991553550",
+        "ceneo_id": 869991553550,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HSIC 3M19 C",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991553620",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HSIC 3M19",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "869991554110",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSFO 3T224",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991554830",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HSIO 3O23 WFE",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991555170",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSFO 3T224 Z",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "869991556430",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSFE 1B10",
+        "price_whr": 815.16
+    },
+    {
+        "product_id": "869991557960",
+        "ceneo_id": 869991557960,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DSIE 2B10",
+        "price_whr": 809.2
+    },
+    {
+        "product_id": "869991557980",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSIE 2B19",
+        "price_whr": 891.65
+    },
+    {
+        "product_id": "869991558110",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIP 4O33 PFE",
+        "price_whr": 1614.15
+    },
+    {
+        "product_id": "869991558160",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSFO 3T224 C S",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991558170",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSIO 3T224 CE",
+        "price_whr": 991.1
+    },
+    {
+        "product_id": "869990867810",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Indesit",
+        "model": "DSR 15B1 EU",
+        "price_whr": 645.54
+    },
+    {
+        "product_id": "869991002200",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIE 2B19",
+        "price_whr": 933.3
+    },
+    {
+        "product_id": "869991054190",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3T133 DL E S",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869991552520",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFE 2B19",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991552540",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFC 3M17 X",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991576960",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFO 3C23 6.5 X",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "869991009370",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C22 P",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "869991554980",
+        "ceneo_id": 869991554980,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HSIE 2B19",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991553570",
+        "ceneo_id": 869991553570,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HSIC 3T127 C",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991554820",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HSIO 3O35 WFE",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "869991552750",
+        "ceneo_id": 869991552750,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DSIC 3M19",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991552760",
+        "ceneo_id": 869991552760,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DSIC 3T117 C",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991552080",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIE 2B19 C",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991553390",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSIO 3O23 PFE X",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991056370",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HIO 3T132 W O",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991052330",
+        "ceneo_id": 869991052330,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DIFP 8T94 Z",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991009550",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WRIC 3C26",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991052460",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIC 3C24 PS E",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991576950",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3C23 6.5 E",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991578040",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3T323 6.5",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991052350",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WCIO 3T321 PS E",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "869991052370",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3T122 PS",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "869991576930",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WKIO 3T123 6.5P",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "869991546520",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WIO 3T133 DES",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869991553610",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HSFO 3T223 WC X",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "869991553500",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HSFO 3T235 WC",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991553510",
+        "ceneo_id": 869991553510,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HSFO 3T235 WC X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991555020",
+        "ceneo_id": 869991555020,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DSCFE 1B10 S RU",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "869991556460",
+        "ceneo_id": 869991556460,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DSFE 1B10 S",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "869991558600",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFO 3O34 PF",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "869991558050",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WSFO 3T223 PC X",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991055270",
+        "ceneo_id": 869991055270,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "IHFC 3B+26 X",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991056450",
+        "ceneo_id": 869991056450,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HFO 3T223 WGF X",
+        "price_whr": 1401.65
+    },
+    {
+        "product_id": "869991004060",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFE 2B19",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "869991004050",
+        "ceneo_id": 869991004050,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WFE 2B19 X",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "869991576920",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFO 3T223 6.5P X",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991576980",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WFO 3T123 6.5P X",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "869991053020",
+        "ceneo_id": -1,
+        "category": "dishwasher",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "HFC 3B19 X",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991531930",
+        "ceneo_id": 869991531930,
+        "category": "dishwasher",
+        "available": true,
+        "brand": "Indesit",
+        "model": "DFP 58T94 Z NX",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "859330549050",
+        "ceneo_id": 859330549050,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AWE 70120",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "859331549050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AWE 70122",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "859332749050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 70230",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "859332849050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 65230",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "859333049050",
+        "ceneo_id": 859333049050,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "TDLR 60220",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "859333149050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 60120",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "859333249050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 70210",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "859333349050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 70211",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "859333449050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 70110",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "859333649050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 70112",
+        "price_whr": 1028.19
+    },
+    {
+        "product_id": "859333749050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 60210",
+        "price_whr": 1095.66
+    },
+    {
+        "product_id": "859333949050",
+        "ceneo_id": 859333949050,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "TDLR 60212",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "859334149050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 60110",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "859334249050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 60111",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "859334349050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 60112",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "859334449050",
+        "ceneo_id": 859334449050,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "TDLR 60113",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "859334549050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "TDLR 60114",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "869991576060",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "EFWSG71283BVPL",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "869991563340",
+        "ceneo_id": 869991563340,
+        "category": "washing",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "NLCD 846 WBD AD PL",
+        "price_whr": 1401.65
+    },
+    {
+        "product_id": "859991576090",
+        "ceneo_id": 859991576090,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "EFWG81283SBPL",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "859242110010",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWD91496WS EU",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "859991026120",
+        "ceneo_id": 859991026120,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "ITWD 61252 G (PL)",
+        "price_whr": 682.51
+    },
+    {
+        "product_id": "859991532390",
+        "ceneo_id": 859991532390,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FWG71284W PL",
+        "price_whr": 1078.66
+    },
+    {
+        "product_id": "859991532540",
+        "ceneo_id": 859991532540,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FWG71283W PL",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "859991532950",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWG71083W PL",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "859991538760",
+        "ceneo_id": 859991538760,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FWL61283W PL",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "869990785470",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "AQS73F 09 EU",
+        "price_whr": 1056.74
+    },
+    {
+        "product_id": "869990785510",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "AQS73D 29 EU/B",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869990830100",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IWUD 41051 C ECO EU",
+        "price_whr": 874.65
+    },
+    {
+        "product_id": "869990830190",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IWUD 41051 C ECO PL",
+        "price_whr": 722.49
+    },
+    {
+        "product_id": "869990876810",
+        "ceneo_id": 869990876810,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IWSD 51252 C ECO PL",
+        "price_whr": 789.66
+    },
+    {
+        "product_id": "869990935950",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "RSSF 623 B PL",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "869991031170",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BWSA 61253 W EU",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "869991035040",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BWUA 51051X W PL",
+        "price_whr": 890.8
+    },
+    {
+        "product_id": "869991035050",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BWUA 51052X W PL",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "869991035060",
+        "ceneo_id": 869991035060,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "BWSA 61053 W PL",
+        "price_whr": 832.16
+    },
+    {
+        "product_id": "869991035250",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BWA 71253 W PL",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991042740",
+        "ceneo_id": 869991042740,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "BWE 71253X S PL",
+        "price_whr": 977.49
+    },
+    {
+        "product_id": "869991057330",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSF61052W PL",
+        "price_whr": 908.65
+    },
+    {
+        "product_id": "869991057340",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSF61053W PL",
+        "price_whr": 906.95
+    },
+    {
+        "product_id": "869991057360",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSG61053W PL",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "869991057570",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSL61052W PL",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "869991057580",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSF61252W PL",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "869991530700",
+        "ceneo_id": 869991530700,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FWSF61253W PL",
+        "price_whr": 849.14
+    },
+    {
+        "product_id": "869991530720",
+        "ceneo_id": 869991530720,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FWSG61253W PL",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991530730",
+        "ceneo_id": 869991530730,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FWSG71253W PL",
+        "price_whr": 1104.16
+    },
+    {
+        "product_id": "869991531530",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSG71083W PL",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991541940",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWSG X71253W PL",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "859200238010",
+        "ceneo_id": 859200238010,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FRR12451",
+        "price_whr": 2974.16
+    },
+    {
+        "product_id": "859991567450",
+        "ceneo_id": 859991567450,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "TDLR 70230S",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "859991537990",
+        "ceneo_id": 859991537990,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "BTW A61053 W (PL)",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "859991538400",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BTW D61253 (PL)",
+        "price_whr": 764.16
+    },
+    {
+        "product_id": "859991538410",
+        "ceneo_id": 859991538410,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "BTW D61253S (PL)",
+        "price_whr": 976.64
+    },
+    {
+        "product_id": "859991538420",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BTW D612531 (PL)",
+        "price_whr": 1053.15
+    },
+    {
+        "product_id": "869991563280",
+        "ceneo_id": 869991563280,
+        "category": "washing",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "NM11 725 WC A PL",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "859991538030",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BTW D610531 W (PL)",
+        "price_whr": 832.14
+    },
+    {
+        "product_id": "859991537800",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BTW A61052 G (PL)",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "859991538010",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BTW D61053 W (PL)",
+        "price_whr": 891.65
+    },
+    {
+        "product_id": "859991538020",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "BTW D61053 G (PL)",
+        "price_whr": 925.65
+    },
+    {
+        "product_id": "859991538000",
+        "ceneo_id": 859991538000,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "BTW A61053 G (PL)",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869990815560",
+        "ceneo_id": 869990815560,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IWSD 51051 C ECO PL",
+        "price_whr": 653.65
+    },
+    {
+        "product_id": "858433010040",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "ITWD 61052 W (EU)",
+        "price_whr": 891.65
+    },
+    {
+        "product_id": "869990959510",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IWSD 51051 CECO PL.L",
+        "price_whr": 755.65
+    },
+    {
+        "product_id": "869991021100",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "AWM 129 (EU)",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "869991033280",
+        "ceneo_id": 869991033280,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "EWD 61052 W EU/1",
+        "price_whr": 700.99
+    },
+    {
+        "product_id": "859991570240",
+        "ceneo_id": 859991570240,
+        "category": "washing",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FSCR 90456",
+        "price_whr": 1954.16
+    },
+    {
+        "product_id": "869991588330",
+        "ceneo_id": 869991588330,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "MTWSC 51252 W PL",
+        "price_whr": 738.65
+    },
+    {
+        "product_id": "869991595860",
+        "ceneo_id": 869991595860,
+        "category": "washing",
+        "available": true,
+        "brand": "Indesit",
+        "model": "MTWSA 51252 WS PL",
+        "price_whr": 781.16
+    },
+    {
+        "product_id": "869991588540",
+        "ceneo_id": -1,
+        "category": "washing",
+        "available": false,
+        "brand": "Indesit",
+        "model": "MTWSA 61051 W PL",
+        "price_whr": 781.16
+    },
+    {
+        "product_id": "869990629780",
+        "ceneo_id": -1,
+        "category": "dryer",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IDV 75 (EU)",
+        "price_whr": 764.16
+    },
+    {
+        "product_id": "869991542650",
+        "ceneo_id": 869991542650,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FT CM10 8B EU",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991543420",
+        "ceneo_id": 869991543420,
+        "category": "dryer",
+        "available": true,
+        "brand": "Indesit",
+        "model": "YT M10 81 R PL",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "869991583590",
+        "ceneo_id": -1,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FT M22 9X2B EU",
+        "price_whr": 1869.16
+    },
+    {
+        "product_id": "869991583610",
+        "ceneo_id": -1,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FT M22 9X2 EU",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869991583620",
+        "ceneo_id": 869991583620,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FT M22 9X2S EU",
+        "price_whr": 1784.15
+    },
+    {
+        "product_id": "869991583680",
+        "ceneo_id": 869991583680,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ST U 92X EU",
+        "price_whr": 1869.16
+    },
+    {
+        "product_id": "869991583690",
+        "ceneo_id": 869991583690,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ST U 92E EU",
+        "price_whr": 1741.66
+    },
+    {
+        "product_id": "869991583710",
+        "ceneo_id": -1,
+        "category": "dryer",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FT M22 8X2B EU",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "869991583720",
+        "ceneo_id": 869991583720,
+        "category": "dryer",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "FT D 8X3WS EU",
+        "price_whr": 2039.16
+    },
+    {
+        "product_id": "869991542520",
+        "ceneo_id": -1,
+        "category": "dryer",
+        "available": true,
+        "brand": "Indesit",
+        "model": "YT CM08 7B EU",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869990625630",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IWDE 7105 B (EU)",
+        "price_whr": 1104.16
+    },
+    {
+        "product_id": "869990785770",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "AQD1070D 49 EU/B",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869990858350",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "AQD1071D 69 EU/B",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "869991002890",
+        "ceneo_id": 869991002890,
+        "category": "washer-dryers",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "RDPD 107617 JKD EU",
+        "price_whr": 2039.16
+    },
+    {
+        "product_id": "869991016290",
+        "ceneo_id": 869991016290,
+        "category": "washer-dryers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "XWDE 861480X WSSS EU",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991016300",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "XWDE 961480X WSSS EU",
+        "price_whr": 1486.65
+    },
+    {
+        "product_id": "869991550280",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWDD1071681WS EU",
+        "price_whr": 2039.16
+    },
+    {
+        "product_id": "869991549350",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWDG86148W EU",
+        "price_whr": 1462.0
+    },
+    {
+        "product_id": "869991549930",
+        "ceneo_id": -1,
+        "category": "washer-dryers",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "FWDG97168WS PL",
+        "price_whr": 1767.17
+    },
+    {
+        "product_id": "869991567490",
+        "ceneo_id": 869991567490,
+        "category": "washer-dryers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "BI WDIL 75145 EU",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "852584101100",
+        "ceneo_id": 852584101100,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKZM 8410 IX",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "852584201100",
+        "ceneo_id": 852584201100,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKZM 8420 IX",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "852584201110",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZM 8420 WH",
+        "price_whr": 1163.65
+    },
+    {
+        "product_id": "852584201120",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZM 8420 NB",
+        "price_whr": 1146.64
+    },
+    {
+        "product_id": "852584201130",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZM 8420 S",
+        "price_whr": 1265.66
+    },
+    {
+        "product_id": "852584801110",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZM 8480 WH",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "852584801120",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZM 8480 NB",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "852584801130",
+        "ceneo_id": 852584801130,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKZM 8480 S",
+        "price_whr": 1571.64
+    },
+    {
+        "product_id": "857745861520",
+        "ceneo_id": 857745861520,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKP 458/NB",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "857746110510",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 461/NB",
+        "price_whr": 709.75
+    },
+    {
+        "product_id": "857774601700",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 7460 IX",
+        "price_whr": 951.16
+    },
+    {
+        "product_id": "857778201500",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 782 IX",
+        "price_whr": 721.65
+    },
+    {
+        "product_id": "857778501500",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 785 IX",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "857778601500",
+        "ceneo_id": 857778601500,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKP 786 IX",
+        "price_whr": 679.16
+    },
+    {
+        "product_id": "857778601510",
+        "ceneo_id": 857778601510,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKP 786 WH",
+        "price_whr": 819.52
+    },
+    {
+        "product_id": "857778601520",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 786 NB",
+        "price_whr": 732.03
+    },
+    {
+        "product_id": "858758301790",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 583 IX",
+        "price_whr": 1475.11
+    },
+    {
+        "product_id": "859991569270",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W6OM44S1PBSS",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "859991569260",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 OM2 4S1 P BSS",
+        "price_whr": 2124.16
+    },
+    {
+        "product_id": "859990968130",
+        "ceneo_id": 859990968130,
+        "category": "oven",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "FI6 871 SC IX HA",
+        "price_whr": 882.68
+    },
+    {
+        "product_id": "859991536990",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "TIF 801 SC AN HA",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "859991538900",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 OM4 4S1 P",
+        "price_whr": 1656.66
+    },
+    {
+        "product_id": "859991541330",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W7 OM4 4S1 P BL",
+        "price_whr": 1656.66
+    },
+    {
+        "product_id": "859991549730",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 OM2 4MS2 H",
+        "price_whr": 2039.17
+    },
+    {
+        "product_id": "859990967870",
+        "ceneo_id": 859990967870,
+        "category": "oven",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "FI7 871 SC IX HA",
+        "price_whr": 864.49
+    },
+    {
+        "product_id": "859990968040",
+        "ceneo_id": 859990968040,
+        "category": "oven",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": " FI7 861 SH WH HA",
+        "price_whr": 876.42
+    },
+    {
+        "product_id": "859990968050",
+        "ceneo_id": 859990968050,
+        "category": "oven",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": " FI7 861 SH BL HA",
+        "price_whr": 848.01
+    },
+    {
+        "product_id": "859990968090",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "FI7 861 SH IX HA",
+        "price_whr": 824.72
+    },
+    {
+        "product_id": "859991001380",
+        "ceneo_id": 859991001380,
+        "category": "oven",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "GA2 124 IX HA",
+        "price_whr": 640.77
+    },
+    {
+        "product_id": "859991028350",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IFW 65Y0 J IX",
+        "price_whr": 603.23
+    },
+    {
+        "product_id": "859991028360",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IFW 65Y0 J BL",
+        "price_whr": 619.65
+    },
+    {
+        "product_id": "859991530380",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKZ9 6230 IX",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "859991530390",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZ9 6230 NB",
+        "price_whr": 1171.3
+    },
+    {
+        "product_id": "859991530400",
+        "ceneo_id": 859991530400,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKZ9 6230 S",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "859991530940",
+        "ceneo_id": 859991530940,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKZ9 7890 IX",
+        "price_whr": 1009.81
+    },
+    {
+        "product_id": "859991531460",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZ9 6240 NB",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "859991533830",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "OAKZ9 7921 CS IX",
+        "price_whr": 934.16
+    },
+    {
+        "product_id": "859991533840",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "OAKZ9 7921 CS WH",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "859991533860",
+        "ceneo_id": 859991533860,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "OAKZ9 7921 CS NB",
+        "price_whr": 1146.64
+    },
+    {
+        "product_id": "859991535560",
+        "ceneo_id": 859991535560,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "OAKZ9 7961 SP IX",
+        "price_whr": 1189.14
+    },
+    {
+        "product_id": "859991535770",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKZ9 6230 WH",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "859991001020",
+        "ceneo_id": 859991001020,
+        "category": "oven",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "FA4 841 P IX HA",
+        "price_whr": 719.01
+    },
+    {
+        "product_id": "859991549450",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W11I OM1 4MS2 H",
+        "price_whr": 2974.14
+    },
+    {
+        "product_id": "859991551170",
+        "ceneo_id": 859991551170,
+        "category": "oven",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W9 OS2 4S1 P",
+        "price_whr": 2549.15
+    },
+    {
+        "product_id": "859991551750",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9I OM2 4S1 H",
+        "price_whr": 1699.15
+    },
+    {
+        "product_id": "859991555900",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 OP2 4S2 H",
+        "price_whr": 2889.16
+    },
+    {
+        "product_id": "859991538090",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "TIF 801 SC OW HA",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "857724510500",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 245/IX",
+        "price_whr": 529.36
+    },
+    {
+        "product_id": "857744601500",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 446/IX",
+        "price_whr": 636.65
+    },
+    {
+        "product_id": "857746010500",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP 460/IX",
+        "price_whr": 673.2
+    },
+    {
+        "product_id": "859991028300",
+        "ceneo_id": 859991028300,
+        "category": "oven",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IFW 6544 IX.1",
+        "price_whr": 636.65
+    },
+    {
+        "product_id": "859991531170",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKP9 786 IX",
+        "price_whr": 1009.81
+    },
+    {
+        "product_id": "859991551920",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W6 OM4 4S1 H BL",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "859991558480",
+        "ceneo_id": -1,
+        "category": "oven",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "OAS KP8V1 IX",
+        "price_whr": 1241.84
+    },
+    {
+        "product_id": "859991027770",
+        "ceneo_id": 859991027770,
+        "category": "oven",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IFW 4841 JC BL",
+        "price_whr": 764.16
+    },
+    {
+        "product_id": "859991027790",
+        "ceneo_id": 859991027790,
+        "category": "oven",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IFW 6841 JH IX",
+        "price_whr": 747.15
+    },
+    {
+        "product_id": "859479938500",
+        "ceneo_id": 859479938500,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKT 799/IXL",
+        "price_whr": 1101.8
+    },
+    {
+        "product_id": "869991041540",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": " IKIA 640 C",
+        "price_whr": 727.16
+    },
+    {
+        "product_id": "869991558010",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMC 604 F/NE/IXL",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "869991532870",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMC 654 F/BF",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "869990782120",
+        "ceneo_id": 869990782120,
+        "category": "hob",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "DK 20S (IX) /HA",
+        "price_whr": 386.13
+    },
+    {
+        "product_id": "869990934560",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKR 361/IX",
+        "price_whr": 379.95
+    },
+    {
+        "product_id": "869990934630",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKM 268/IX",
+        "price_whr": 348.43
+    },
+    {
+        "product_id": "869990934780",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKM 260/IX",
+        "price_whr": 341.62
+    },
+    {
+        "product_id": "869990964240",
+        "ceneo_id": 869990964240,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKT 8130 BA",
+        "price_whr": 671.51
+    },
+    {
+        "product_id": "869990965300",
+        "ceneo_id": 869990965300,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKT 6465/S",
+        "price_whr": 736.11
+    },
+    {
+        "product_id": "869991007260",
+        "ceneo_id": 869991007260,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 816/BA",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991007310",
+        "ceneo_id": 869991007310,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 808/BA/S",
+        "price_whr": 1142.4
+    },
+    {
+        "product_id": "869991007360",
+        "ceneo_id": 869991007360,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": " ACM 808/NE",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "869991007400",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 808/BA/WH",
+        "price_whr": 1084.6
+    },
+    {
+        "product_id": "869991007450",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 918/BA",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991007480",
+        "ceneo_id": 869991007480,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 932/BA",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "869991007490",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 808/BA",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991007700",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 795/BA",
+        "price_whr": 1874.24
+    },
+    {
+        "product_id": "869991007720",
+        "ceneo_id": 869991007720,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 556/NE",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991011230",
+        "ceneo_id": 869991011230,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 836/BA",
+        "price_whr": 1104.16
+    },
+    {
+        "product_id": "869991011530",
+        "ceneo_id": 869991011530,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 867/BA/IXL",
+        "price_whr": 1292.02
+    },
+    {
+        "product_id": "869991011550",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 814/BA",
+        "price_whr": 1444.16
+    },
+    {
+        "product_id": "869991011730",
+        "ceneo_id": 869991011730,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 756/NE",
+        "price_whr": 786.47
+    },
+    {
+        "product_id": "869991011760",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 868/BA/IXL",
+        "price_whr": 952.5
+    },
+    {
+        "product_id": "869991014260",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 829/NE",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "869991015350",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 8210 LX",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991015400",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 8210/NE",
+        "price_whr": 762.45
+    },
+    {
+        "product_id": "869991015510",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 801/NE",
+        "price_whr": 534.64
+    },
+    {
+        "product_id": "869991029800",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 6400/NB",
+        "price_whr": 505.75
+    },
+    {
+        "product_id": "869991029870",
+        "ceneo_id": 869991029870,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKT 6410/NB",
+        "price_whr": 551.64
+    },
+    {
+        "product_id": "869991029910",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 6400/WH",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "869991029950",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 6420/NB",
+        "price_whr": 630.69
+    },
+    {
+        "product_id": "869991029980",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 6465/NB",
+        "price_whr": 628.16
+    },
+    {
+        "product_id": "869991030010",
+        "ceneo_id": 869991030010,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKT 6465/WH",
+        "price_whr": 585.17
+    },
+    {
+        "product_id": "869991030130",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKA 6422/IX",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "869991030430",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKT 6455/NB",
+        "price_whr": 715.71
+    },
+    {
+        "product_id": "869991033590",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMO 658C/NE",
+        "price_whr": 2039.17
+    },
+    {
+        "product_id": "869991040970",
+        "ceneo_id": 869991040970,
+        "category": "hob",
+        "available": true,
+        "brand": "Indesit",
+        "model": "VIA 640 0 C",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991041020",
+        "ceneo_id": 869991041020,
+        "category": "hob",
+        "available": true,
+        "brand": "Indesit",
+        "model": "VID 641 B C",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991041070",
+        "ceneo_id": 869991041070,
+        "category": "hob",
+        "available": true,
+        "brand": "Indesit",
+        "model": "VIS 640 C",
+        "price_whr": 721.06
+    },
+    {
+        "product_id": "869991041210",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMC 604 F/NE",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991041220",
+        "ceneo_id": 869991041220,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "SMC 654 F/BT/IXL",
+        "price_whr": 1612.46
+    },
+    {
+        "product_id": "869991041230",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMC 774 F/BT/IXL",
+        "price_whr": 1687.26
+    },
+    {
+        "product_id": "869991042690",
+        "ceneo_id": 869991042690,
+        "category": "hob",
+        "available": true,
+        "brand": "Indesit",
+        "model": " RI 161 C",
+        "price_whr": 636.65
+    },
+    {
+        "product_id": "869991043320",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMC 604/F/BT",
+        "price_whr": 1486.65
+    },
+    {
+        "product_id": "869991043330",
+        "ceneo_id": 869991043330,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "SMC 504/F/NE",
+        "price_whr": 1444.14
+    },
+    {
+        "product_id": "869991043350",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMO 658C/BT/IXL",
+        "price_whr": 2379.16
+    },
+    {
+        "product_id": "869991043360",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMP 658C/BT/IXL",
+        "price_whr": 2379.99
+    },
+    {
+        "product_id": "869991546330",
+        "ceneo_id": 869991546330,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "GMW 7522/IXL",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991546410",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKW 6422/IXL",
+        "price_whr": 607.9
+    },
+    {
+        "product_id": "869991546440",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKW 6423/NB",
+        "price_whr": 791.35
+    },
+    {
+        "product_id": "869991547530",
+        "ceneo_id": 869991547530,
+        "category": "hob",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "PCN 640T(OW) R/HA PL",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "869991547600",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "PCN 640T(AN) R /HA PL",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "869991548010",
+        "ceneo_id": 869991548010,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKW 7523/NB",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991560370",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACM 828/BA/WH",
+        "price_whr": 1486.65
+    },
+    {
+        "product_id": "869991560380",
+        "ceneo_id": 869991560380,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 828/BA/S",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "869991020630",
+        "ceneo_id": 869991020630,
+        "category": "hob",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "TQG 641 /HA(BK) EE",
+        "price_whr": 536.98
+    },
+    {
+        "product_id": "869991006540",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Indesit",
+        "model": "THP 642 W/IX/I RU",
+        "price_whr": 360.56
+    },
+    {
+        "product_id": "869991022020",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Indesit",
+        "model": "PAA 642 /I(BK) RU",
+        "price_whr": 368.2
+    },
+    {
+        "product_id": "869991041350",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "KIA 641 B B (CF)",
+        "price_whr": 1013.03
+    },
+    {
+        "product_id": "869991006610",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "TQG 641 /HA(DS) Płyta",
+        "price_whr": 624.51
+    },
+    {
+        "product_id": "869991041260",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "SMP 9010 C/NE/IXL",
+        "price_whr": 4759.15
+    },
+    {
+        "product_id": "859991576140",
+        "ceneo_id": 859991576140,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WVH 92 K",
+        "price_whr": 6969.17
+    },
+    {
+        "product_id": "869991011210",
+        "ceneo_id": 869991011210,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 750/NE",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "869991011740",
+        "ceneo_id": 869991011740,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACM 838/NE",
+        "price_whr": 794.75
+    },
+    {
+        "product_id": "869991042810",
+        "ceneo_id": 869991042810,
+        "category": "hob",
+        "available": true,
+        "brand": "Indesit",
+        "model": "AAR 160 C",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "869991568620",
+        "ceneo_id": 869991568620,
+        "category": "hob",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKF 7522/IX",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991040870",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": false,
+        "brand": "Indesit",
+        "model": "VIA 640.1 C",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "869991014520",
+        "ceneo_id": 869991014520,
+        "category": "hob",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KHIP3 90400",
+        "price_whr": 6791.52
+    },
+    {
+        "product_id": "869991033470",
+        "ceneo_id": 869991033470,
+        "category": "hob",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KHIP4 65511",
+        "price_whr": 5091.51
+    },
+    {
+        "product_id": "869991014490",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KHIP3 65510",
+        "price_whr": 5091.51
+    },
+    {
+        "product_id": "869991014430",
+        "ceneo_id": -1,
+        "category": "hob",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KHID3 65510",
+        "price_whr": 5091.51
+    },
+    {
+        "product_id": "869991551620",
+        "ceneo_id": 869991551620,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "I6GMH6AG(X)/U",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "869991551630",
+        "ceneo_id": 869991551630,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "I6GMH6AG(W)/U",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "869991554720",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "H6GMH6AF C (X) PL",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "869990839840",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "H6GMH6AF C (X) PL",
+        "price_whr": 1038.6
+    },
+    {
+        "product_id": "869990840100",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "I6GMH6AG(W)/U",
+        "price_whr": 800.02
+    },
+    {
+        "product_id": "869990854030",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "I5TMH6AG(X) U",
+        "price_whr": 867.22
+    },
+    {
+        "product_id": "869990856880",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "I5GMH6AG(X).1 U",
+        "price_whr": 836.77
+    },
+    {
+        "product_id": "869990884200",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "I5GMH5AGC(X)/U",
+        "price_whr": 787.7
+    },
+    {
+        "product_id": "869991561450",
+        "ceneo_id": 869991561450,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G4KHW/E",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "869991564770",
+        "ceneo_id": 869991564770,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5V8CHX/E",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "869991564790",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WS5G8CHW/E",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "869991564880",
+        "ceneo_id": 869991564880,
+        "category": "cookers",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WS5V8CCX/E",
+        "price_whr": 1359.15
+    },
+    {
+        "product_id": "869991564910",
+        "ceneo_id": 869991564910,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G0KMW/E",
+        "price_whr": 721.65
+    },
+    {
+        "product_id": "869991564950",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IS5G0KMX/E",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "869991564960",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IS5G8MHJ/E",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991565110",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WS5G8CHX/E",
+        "price_whr": 1274.14
+    },
+    {
+        "product_id": "869991565150",
+        "ceneo_id": 869991565150,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5V8GMW/E",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991565160",
+        "ceneo_id": 869991565160,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8MHA/E",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991565180",
+        "ceneo_id": 869991565180,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8CHX/BA",
+        "price_whr": 1061.65
+    },
+    {
+        "product_id": "869991565190",
+        "ceneo_id": 869991565190,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8CHX/EU",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991565210",
+        "ceneo_id": 869991565210,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8CHB/PO",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "869991565220",
+        "ceneo_id": 869991565220,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8CHW/E",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991565620",
+        "ceneo_id": 869991565620,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8CHW/PO /1",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "869991565630",
+        "ceneo_id": -1,
+        "category": "cookers",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IS5G8CHW/PO",
+        "price_whr": 976.66
+    },
+    {
+        "product_id": "869991563210",
+        "ceneo_id": 869991563210,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G4KHX/E",
+        "price_whr": 789.66
+    },
+    {
+        "product_id": "869991565200",
+        "ceneo_id": 869991565200,
+        "category": "cookers",
+        "available": true,
+        "brand": "Indesit",
+        "model": "IS5G8CHX/PO/1",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "857801801030",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AG PA 005 BW",
+        "price_whr": 407.98
+    },
+    {
+        "product_id": "857803701000",
+        "ceneo_id": 857803701000,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 037 G BL",
+        "price_whr": 679.16
+    },
+    {
+        "product_id": "857803801000",
+        "ceneo_id": 857803801000,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 038 G BL",
+        "price_whr": 849.99
+    },
+    {
+        "product_id": "857803901000",
+        "ceneo_id": 857803901000,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 039 G BL",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "857804101000",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WHVP 63 LT W",
+        "price_whr": 666.38
+    },
+    {
+        "product_id": "869990950600",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Indesit",
+        "model": "IHPC 6.4 AM K",
+        "price_whr": 359.06
+    },
+    {
+        "product_id": "859991552970",
+        "ceneo_id": 859991552970,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WCT 64 FLY X",
+        "price_whr": 449.65
+    },
+    {
+        "product_id": "852406101000",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AR GA 001 IX",
+        "price_whr": 616.13
+    },
+    {
+        "product_id": "859991539600",
+        "ceneo_id": 859991539600,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WHVS 90F LT C K",
+        "price_whr": 2549.16
+    },
+    {
+        "product_id": "859991568530",
+        "ceneo_id": 859991568530,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 6390/1 IX",
+        "price_whr": 326.82
+    },
+    {
+        "product_id": "859991542330",
+        "ceneo_id": 859991542330,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WHSS 90F TS K",
+        "price_whr": 2837.31
+    },
+    {
+        "product_id": "869991040640",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HHVP 63F LM CF",
+        "price_whr": 533.81
+    },
+    {
+        "product_id": "869990950370",
+        "ceneo_id": 869990950370,
+        "category": "hood",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "HHBS 9.8C LTD K",
+        "price_whr": 1671.35
+    },
+    {
+        "product_id": "859991542390",
+        "ceneo_id": 859991542390,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WHBS 62F LT K",
+        "price_whr": 1290.29
+    },
+    {
+        "product_id": "859991550550",
+        "ceneo_id": 859991550550,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 685/1 IX",
+        "price_whr": 364.65
+    },
+    {
+        "product_id": "859991550660",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKR 559/3 IX",
+        "price_whr": 548.59
+    },
+    {
+        "product_id": "859991550670",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKR 558/3 IX",
+        "price_whr": 475.92
+    },
+    {
+        "product_id": "859991550700",
+        "ceneo_id": 859991550700,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 036/1 G BL",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "859991551250",
+        "ceneo_id": 859991551250,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 749/1 NB",
+        "price_whr": 364.65
+    },
+    {
+        "product_id": "859991552930",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WCT 64 FLS X",
+        "price_whr": 381.64
+    },
+    {
+        "product_id": "859991567640",
+        "ceneo_id": 859991567640,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WHVS 93F LT BSS",
+        "price_whr": 2209.15
+    },
+    {
+        "product_id": "859991568520",
+        "ceneo_id": 859991568520,
+        "category": "hood",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AKR 5390/1 IX",
+        "price_whr": 295.8
+    },
+    {
+        "product_id": "859991590680",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AKR 750 G K",
+        "price_whr": 449.65
+    },
+    {
+        "product_id": "869991595020",
+        "ceneo_id": 869991595020,
+        "category": "hood",
+        "available": true,
+        "brand": "Indesit",
+        "model": "H 461 X H2G",
+        "price_whr": 296.65
+    },
+    {
+        "product_id": "859991583740",
+        "ceneo_id": -1,
+        "category": "hood",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "WHVF 63F LT K",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "858714001490",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 140 NB",
+        "price_whr": 495.54
+    },
+    {
+        "product_id": "858714001790",
+        "ceneo_id": 858714001790,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 140 IX",
+        "price_whr": 447.94
+    },
+    {
+        "product_id": "858734699290",
+        "ceneo_id": 858734699290,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MCP 346 WH",
+        "price_whr": 496.4
+    },
+    {
+        "product_id": "858734699490",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "MCP 346 BL",
+        "price_whr": 466.65
+    },
+    {
+        "product_id": "858742099490",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "MWF 420 BL",
+        "price_whr": 445.4
+    },
+    {
+        "product_id": "858742199490",
+        "ceneo_id": 858742199490,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 421 BL",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "858742199890",
+        "ceneo_id": 858742199890,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 421 SL",
+        "price_whr": 594.15
+    },
+    {
+        "product_id": "858744029900",
+        "ceneo_id": 858744029900,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 440/IX",
+        "price_whr": 721.65
+    },
+    {
+        "product_id": "858750601960",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 506/SD",
+        "price_whr": 675.38
+    },
+    {
+        "product_id": "858763301000",
+        "ceneo_id": 858763301000,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 160/IX",
+        "price_whr": 576.29
+    },
+    {
+        "product_id": "858773001900",
+        "ceneo_id": 858773001900,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 730/IX",
+        "price_whr": 1211.24
+    },
+    {
+        "product_id": "858773001920",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 730/NB",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "858773001940",
+        "ceneo_id": 858773001940,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 730/WH",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "858773001960",
+        "ceneo_id": 858773001960,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 730/SD",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "858773129900",
+        "ceneo_id": 858773129900,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 731/IX",
+        "price_whr": 1122.85
+    },
+    {
+        "product_id": "858773129920",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 731/NB",
+        "price_whr": 1019.15
+    },
+    {
+        "product_id": "858773129940",
+        "ceneo_id": 858773129940,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 731/WH",
+        "price_whr": 1189.15
+    },
+    {
+        "product_id": "858783438960",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": " AMW 834/WA",
+        "price_whr": 1762.55
+    },
+    {
+        "product_id": "859991569240",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W6 MD440 BSS",
+        "price_whr": 1614.15
+    },
+    {
+        "product_id": "859991569230",
+        "ceneo_id": 859991569230,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W9 MD260 BSS",
+        "price_whr": 1869.16
+    },
+    {
+        "product_id": "859990966620",
+        "ceneo_id": 859990966620,
+        "category": "microwave",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "MN 513 IX HA",
+        "price_whr": 687.39
+    },
+    {
+        "product_id": "859991020720",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "MD 764 BL HA",
+        "price_whr": 933.99
+    },
+    {
+        "product_id": "858734999290",
+        "ceneo_id": 858734999290,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MCP 349 WH",
+        "price_whr": 600.95
+    },
+    {
+        "product_id": "858734999890",
+        "ceneo_id": 858734999890,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MCP 349 SL",
+        "price_whr": 652.81
+    },
+    {
+        "product_id": "859991001970",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "MD 664 WH HA",
+        "price_whr": 980.04
+    },
+    {
+        "product_id": "859991020730",
+        "ceneo_id": 859991020730,
+        "category": "microwave",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "MD 764 WH HA",
+        "price_whr": 834.44
+    },
+    {
+        "product_id": "859991537090",
+        "ceneo_id": 859991537090,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 303 M",
+        "price_whr": 332.64
+    },
+    {
+        "product_id": "859991537130",
+        "ceneo_id": 859991537130,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 304 M",
+        "price_whr": 398.64
+    },
+    {
+        "product_id": "859991537160",
+        "ceneo_id": 859991537160,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 303 SB",
+        "price_whr": 405.44
+    },
+    {
+        "product_id": "859991538330",
+        "ceneo_id": 859991538330,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 3391 SX",
+        "price_whr": 1146.66
+    },
+    {
+        "product_id": "859991539250",
+        "ceneo_id": 859991539250,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W7 MD440",
+        "price_whr": 1486.65
+    },
+    {
+        "product_id": "859991542270",
+        "ceneo_id": 859991542270,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W9 MW261 IXL",
+        "price_whr": 1911.67
+    },
+    {
+        "product_id": "859991542280",
+        "ceneo_id": 859991542280,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W9I MW261",
+        "price_whr": 2294.15
+    },
+    {
+        "product_id": "859991544610",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W9 MD260 IXL",
+        "price_whr": 1571.66
+    },
+    {
+        "product_id": "859991545590",
+        "ceneo_id": 859991545590,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W7 MD440 NB",
+        "price_whr": 1529.15
+    },
+    {
+        "product_id": "859991556970",
+        "ceneo_id": 859991556970,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 251 SB",
+        "price_whr": 339.15
+    },
+    {
+        "product_id": "859991557000",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "MWP 252 SB",
+        "price_whr": 339.15
+    },
+    {
+        "product_id": "859991557050",
+        "ceneo_id": 859991557050,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 253 SX",
+        "price_whr": 364.65
+    },
+    {
+        "product_id": "859991557060",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "MWP 253 SB",
+        "price_whr": 364.65
+    },
+    {
+        "product_id": "859991557110",
+        "ceneo_id": 859991557110,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 254 W",
+        "price_whr": 344.25
+    },
+    {
+        "product_id": "859991557130",
+        "ceneo_id": 859991557130,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 254 SB",
+        "price_whr": 313.65
+    },
+    {
+        "product_id": "859991020750",
+        "ceneo_id": 859991020750,
+        "category": "microwave",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "MD 764 DS HA",
+        "price_whr": 868.48
+    },
+    {
+        "product_id": "859991537150",
+        "ceneo_id": 859991537150,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 337 W",
+        "price_whr": 845.75
+    },
+    {
+        "product_id": "859991537690",
+        "ceneo_id": 859991537690,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 337 SB",
+        "price_whr": 943.51
+    },
+    {
+        "product_id": "859991537170",
+        "ceneo_id": 859991537170,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 338 W",
+        "price_whr": 849.14
+    },
+    {
+        "product_id": "859991537700",
+        "ceneo_id": 859991537700,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 338 SB",
+        "price_whr": 866.14
+    },
+    {
+        "product_id": "859991538320",
+        "ceneo_id": 859991538320,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 339 SB",
+        "price_whr": 1013.2
+    },
+    {
+        "product_id": "859991537710",
+        "ceneo_id": 859991537710,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 338 SX",
+        "price_whr": 1104.16
+    },
+    {
+        "product_id": "859991539470",
+        "ceneo_id": 859991539470,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W11I MW161",
+        "price_whr": 2719.14
+    },
+    {
+        "product_id": "869990820050",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "MWHA 424.1 X",
+        "price_whr": 1246.25
+    },
+    {
+        "product_id": "869990820060",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "MWK 222.1 K HA",
+        "price_whr": 703.9
+    },
+    {
+        "product_id": "858744229900",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 442/IX",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "859991531050",
+        "ceneo_id": 859991531050,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 404/IX",
+        "price_whr": 806.66
+    },
+    {
+        "product_id": "859991532240",
+        "ceneo_id": 859991532240,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 426 SL",
+        "price_whr": 591.61
+    },
+    {
+        "product_id": "859991539850",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "W11I ME150",
+        "price_whr": 3909.16
+    },
+    {
+        "product_id": "859991560100",
+        "ceneo_id": 859991560100,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 201 W",
+        "price_whr": 361.78
+    },
+    {
+        "product_id": "859991560110",
+        "ceneo_id": 859991560110,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 201 B",
+        "price_whr": 424.14
+    },
+    {
+        "product_id": "859991560180",
+        "ceneo_id": 859991560180,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 203 SB",
+        "price_whr": 434.35
+    },
+    {
+        "product_id": "859991560240",
+        "ceneo_id": 859991560240,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWF 206 SB",
+        "price_whr": 511.69
+    },
+    {
+        "product_id": "859991565560",
+        "ceneo_id": 859991565560,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W67 MN840 NB",
+        "price_whr": 1104.15
+    },
+    {
+        "product_id": "859991566830",
+        "ceneo_id": 859991566830,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 101 B",
+        "price_whr": 254.15
+    },
+    {
+        "product_id": "859991566840",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "MWP 101 W",
+        "price_whr": 237.16
+    },
+    {
+        "product_id": "859991566880",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "MWP 101 SB",
+        "price_whr": 244.94
+    },
+    {
+        "product_id": "859991566890",
+        "ceneo_id": 859991566890,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 101 M",
+        "price_whr": 254.15
+    },
+    {
+        "product_id": "859991566930",
+        "ceneo_id": 859991566930,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 201 SB",
+        "price_whr": 296.65
+    },
+    {
+        "product_id": "859991566940",
+        "ceneo_id": 859991566940,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 201 W",
+        "price_whr": 296.65
+    },
+    {
+        "product_id": "859991566960",
+        "ceneo_id": 859991566960,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 103 W",
+        "price_whr": 279.65
+    },
+    {
+        "product_id": "859991566980",
+        "ceneo_id": 859991566980,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 103 SB",
+        "price_whr": 296.65
+    },
+    {
+        "product_id": "859991566990",
+        "ceneo_id": 859991566990,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 103 B KUCHENKA MIKROFALOWA WP",
+        "price_whr": 278.46
+    },
+    {
+        "product_id": "859991567090",
+        "ceneo_id": 859991567090,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 203 SB",
+        "price_whr": 279.65
+    },
+    {
+        "product_id": "859991567100",
+        "ceneo_id": 859991567100,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 203 W",
+        "price_whr": 288.15
+    },
+    {
+        "product_id": "859991576200",
+        "ceneo_id": 859991576200,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 103 M",
+        "price_whr": 296.65
+    },
+    {
+        "product_id": "859991579470",
+        "ceneo_id": 859991579470,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "MWP 203 M",
+        "price_whr": 330.65
+    },
+    {
+        "product_id": "859991579860",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 442/NB",
+        "price_whr": 934.15
+    },
+    {
+        "product_id": "859991582740",
+        "ceneo_id": 859991582740,
+        "category": "microwave",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "AMW 4900/IX",
+        "price_whr": 764.15
+    },
+    {
+        "product_id": "859991582800",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "AMW 4920/NB",
+        "price_whr": 849.16
+    },
+    {
+        "product_id": "869991591430",
+        "ceneo_id": 869991591430,
+        "category": "microwave",
+        "available": true,
+        "brand": "Indesit",
+        "model": "MWI 120 GX",
+        "price_whr": 619.65
+    },
+    {
+        "product_id": "859991027010",
+        "ceneo_id": 859991027010,
+        "category": "microwave",
+        "available": true,
+        "brand": "Indesit",
+        "model": "MWI 3211 IX",
+        "price_whr": 747.15
+    },
+    {
+        "product_id": "859991565270",
+        "ceneo_id": -1,
+        "category": "microwave",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "KMQFX 33910",
+        "price_whr": 2541.5
+    },
+    {
+        "product_id": "869990956900",
+        "ceneo_id": -1,
+        "category": "sda",
+        "available": false,
+        "brand": "Hotpoint",
+        "model": "Sokowirówka ",
+        "price_whr": 339.15
+    },
+    {
+        "product_id": "859701301000",
+        "ceneo_id": 859701301000,
+        "category": "sda",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "5KSM125EAC",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "859701301010",
+        "ceneo_id": 859701301010,
+        "category": "sda",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "5KSM125EER",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "859701301440",
+        "ceneo_id": 859701301440,
+        "category": "sda",
+        "available": true,
+        "brand": "KitchenAid",
+        "model": "5KSM125ECU",
+        "price_whr": 1699.16
+    },
+    {
+        "product_id": "852201001900",
+        "ceneo_id": -1,
+        "category": "other",
+        "available": false,
+        "brand": "Whirlpool",
+        "model": "ACE 010/IX",
+        "price_whr": 1231.65
+    },
+    {
+        "product_id": "852210201100",
+        "ceneo_id": 852210201100,
+        "category": "other",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "ACE 102 IXL",
+        "price_whr": 4079.16
+    },
+    {
+        "product_id": "869990957370",
+        "ceneo_id": 869990957370,
+        "category": "other",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "WD 914 NB",
+        "price_whr": 856.9
+    },
+    {
+        "product_id": "858788201110",
+        "ceneo_id": 858788201110,
+        "category": "other",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "WD 142/IXL",
+        "price_whr": 869.92
+    },
+    {
+        "product_id": "869990957380",
+        "ceneo_id": -1,
+        "category": "other",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "Ekspres do kawy do zabudowy Hotpoint",
+        "price_whr": 3381.45
+    },
+    {
+        "product_id": "859991537950",
+        "ceneo_id": 859991537950,
+        "category": "other",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W1114",
+        "price_whr": 1316.65
+    },
+    {
+        "product_id": "859991541970",
+        "ceneo_id": 859991541970,
+        "category": "other",
+        "available": true,
+        "brand": "Whirlpool",
+        "model": "W11 CM145",
+        "price_whr": 4674.16
+    },
+    {
+        "product_id": "869990845420",
+        "ceneo_id": -1,
+        "category": "other",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "MN3LP (OW) HA",
+        "price_whr": 235.35
+    },
+    {
+        "product_id": "869990766550",
+        "ceneo_id": -1,
+        "category": "other",
+        "available": true,
+        "brand": "Hotpoint",
+        "model": "SC 79W1 (X) HA",
+        "price_whr": 341.58
+    }
+]
