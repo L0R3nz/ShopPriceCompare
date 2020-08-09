@@ -70,6 +70,7 @@ def create_report():
     
 
 
-
+print("Create database")
 create_database()
+print("Get data from ceneo\n")
 create_report()
