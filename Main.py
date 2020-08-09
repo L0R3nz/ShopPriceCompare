@@ -1,9 +1,11 @@
 import json
 import random
+import csv
 
 from time import sleep
 from CeneoGrabber import getCeneoPrice
 from os import path, remove
+from io import TextIOWrapper
 
 def create_database():
     
@@ -70,12 +72,24 @@ def create_report():
     
 
 def analize_data(data):
+    
+    for item in data:
+        item['whr_discount'] = round(item['ceneo_price'] - item['price_whr'],2)
+        item['whr_discount_percent'] = round((item['whr_discount']/item['ceneo_price'])*100,2)
     return data           
 
 
-def generate_csv(data):
-    return data
+def generate_csv(path, data):
+    
+    with open(path, 'wb') as csv_file, TextIOWrapper(csv_file, encoding='utf-8', newline='') as wrapper:
+        
+        writer = csv.writer(wrapper, quoting=csv.QUOTE_ALL)
+        writer.writerow(data[0].keys())
+        
+        for data_row in data:
+            writer.writerow(data_row.values())
 
+            
 
 def BuildReport(clean_build = False):
     
@@ -102,7 +116,7 @@ def BuildReport(clean_build = False):
     save_file("Report.json", analize_data(read_file("Report.json")))
     
     # Create CSV file
-    generate_csv(read_file("Report.json"))
+    generate_csv("Report.csv", read_file("Report.json"))
 
 
 BuildReport()
