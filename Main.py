@@ -113,10 +113,10 @@ def BuildReport(clean_build = False):
 
     
     # Analize data and calculate statistics
-    save_file("Report.json", analize_data(read_file("Report.json")))
+    save_file("Report_analized.json", analize_data(read_file("Report.json")))
     
     # Create CSV file
-    generate_csv("Report.csv", read_file("Report.json"))
+    generate_csv("Report.csv", read_file("Report_analized.json"))
 
 
 BuildReport()
